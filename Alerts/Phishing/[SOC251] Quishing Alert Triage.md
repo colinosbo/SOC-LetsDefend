@@ -61,7 +61,6 @@
 
 ## 6. Analysis
 
-> Explain your reasoning in 3-5 sentences. What confirmed or ruled out a threat? What tools did you use?
 > The Quishing alert was determined to be a **true positive** through scanning artifacts using threat intelligence. The sender IP came back as malicious and has been reported for phishing. The email appeared to be from Microsoft, but was not from the @Microsoft.com domain. The email contained a QR code, which contained a malicious link to a site that has been removed due to malware. Investigation of the targeted user's endpoint confirmed that the user did **NOT** click the link and did not need isolation.
 
 ---
