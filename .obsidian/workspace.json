@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts/Phishing/test.md",
+                "file": "Alerts/Endpoint/test.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,11 @@
   },
   "active": "495255a1b0a4ba8a",
   "lastOpenFiles": [
-    "README.md",
+    "Alerts/Malware/test.md",
+    "Alerts/Endpoint/test.md",
+    "Alerts/Network/test.md",
     "Alerts/Phishing/test.md",
+    "README.md",
     "Alerts/Endpoint/Test.md",
     "Alerts/Endpoint",
     "Alerts/Network",
