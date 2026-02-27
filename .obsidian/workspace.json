@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts/Phishing/[SOC251] - [Quishing Detected].md",
+                "file": "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[SOC251] - [Quishing Detected]"
+              "title": "[SOC251] Quishing Alert Triage"
             }
           }
         ]
@@ -180,10 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd21f434afe70b8a",
+  "active": "495255a1b0a4ba8a",
   "lastOpenFiles": [
     "Alerts/TEMPLATE.md",
-    "Alerts/Phishing/[SOC251] - [Quishing Detected].md",
+    "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
     "Alerts/Phishing/test.md",
     "Alerts/Endpoint/test.md",
     "Alerts/Malware/test.md",
