@@ -7,13 +7,13 @@
 
 ---
 
-## 1. Alert Summary
+## Alert Summary
 
 > A phishing email containing a QR code was delivered to a corporate user. The QR code redirected to a malicious URL, triggering the SOC251 'Quishing Detected' rule.
 
 ---
 
-## 2. Affected Assets
+## Affected Assets
 
 | Field        | Value                |
 | ------------ | -------------------- |
@@ -24,7 +24,7 @@
 
 ---
 
-## 3. Email Details
+## Email Details
 
 | Field               | Value                                                                                |
 | ------------------- | ------------------------------------------------------------------------------------ |
@@ -36,7 +36,7 @@
 
 ---
 
-## 4. Indicators of Compromise (IOCs)
+## Indicators of Compromise (IOCs)
 
 | Type   | Value                                                                                                                                        | Source       | Malicious? |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- |
@@ -47,7 +47,7 @@
 
 ---
 
-## 5. Investigation Timeline
+## Investigation Timeline
 
 | Time (UTC) | Action                               | Finding                                     |
 | ---------- | ------------------------------------ | ------------------------------------------- |
@@ -59,13 +59,13 @@
 
 ---
 
-## 6. Analysis
+## Analysis
 
 > The Quishing alert was determined to be a **true positive** through scanning artifacts using threat intelligence. The sender IP came back as malicious and has been reported for phishing. The email appeared to be from Microsoft, but was not from the @Microsoft.com domain. The email contained a QR code, which contained a malicious link to a site that has been removed due to malware. Investigation of the targeted user's endpoint confirmed that the user did **NOT** click the link and did not need isolation.
 
 ---
 
-## 7. MITRE ATT&CK Mapping
+## MITRE ATT&CK Mapping
 
 | Field         | Value                          |
 | ------------- | ------------------------------ |
@@ -75,7 +75,7 @@
 
 ---
 
-## 8. Verdict
+## Verdict
 
 - [x] True Positive
 - [ ] False Positive
@@ -85,7 +85,7 @@
 
 ---
 
-## 9. Actions Taken
+## Actions Taken
 
 - [x] IP/Domain blocked
 - [x] Email quarantined
@@ -96,7 +96,7 @@
 
 ---
 
-## 10. Recommendations
+## Recommendations
 
 > Implement enhanced QR code scanning in the email gateway
 > Conduct phishing awareness training focused on QR code attacks

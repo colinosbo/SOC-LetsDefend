@@ -180,14 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "495255a1b0a4ba8a",
+  "active": "bd21f434afe70b8a",
   "lastOpenFiles": [
-    "Alerts/TEMPLATE.md",
+    "Alerts/Network/[SOC235] - [SQL Injection Detected].md",
     "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
+    "Alerts/TEMPLATE.md",
     "Alerts/Phishing/test.md",
     "Alerts/Endpoint/test.md",
     "Alerts/Malware/test.md",
-    "Alerts/Network/test.md",
     "README.md",
     "Alerts/Endpoint/Test.md",
     "Alerts/Endpoint",
