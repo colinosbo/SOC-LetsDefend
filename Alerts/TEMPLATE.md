@@ -7,13 +7,13 @@
 
 ---
 
-## 1. Alert Summary
+## Alert Summary
 
 > Brief 1-2 sentence description of what triggered the alert and what was detected.
 
 ---
 
-## 2. Affected Assets
+## Affected Assets
 
 | Field        | Value |
 | ------------ | ----- |
@@ -24,7 +24,7 @@
 
 ---
 
-## 3. Email Details
+## Email Details
 *(Remove this section if alert is not phishing-related)*
 
 | Field               | Value |
@@ -37,7 +37,7 @@
 
 ---
 
-## 4. Indicators of Compromise (IOCs)
+## Indicators of Compromise (IOCs)
 
 | Type   | Value | Source | Malicious? |
 | ------ | ----- | ------ | ---------- |
@@ -47,7 +47,7 @@
 
 ---
 
-## 5. Investigation Timeline
+## Investigation Timeline
 
 | Time (UTC) | Action | Finding |
 | ---------- | ------ | ------- |
@@ -59,13 +59,13 @@
 
 ---
 
-## 6. Analysis
+## Analysis
 
 *(3-5 sentences. What confirmed or ruled out a threat? What tools did you use? What was the impact or lack thereof?)*
 
 ---
 
-## 7. MITRE ATT&CK Mapping
+## MITRE ATT&CK Mapping
 
 | Field         | Value |
 | ------------- | ----- |
@@ -75,7 +75,7 @@
 
 ---
 
-## 8. Verdict
+## Verdict
 
 - [ ] True Positive
 - [ ] False Positive
@@ -85,7 +85,7 @@
 
 ---
 
-## 9. Actions Taken
+## Actions Taken
 
 - [ ] IP/Domain blocked
 - [ ] Email quarantined
@@ -93,13 +93,5 @@
 - [ ] Account disabled
 - [ ] Escalated to L2
 - [ ] No action required
-
----
-
-## 10. Recommendations
-
->
->
->
 
 ---
