@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts/Endpoint & Malware/[SOC176] - [RDP Brute Force Detected].md",
+                "file": "Alerts/Web Application Attacks/[SOC235] - [SQL Injection Detected].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[SOC176] - [RDP Brute Force Detected]"
+              "title": "[SOC235] - [SQL Injection Detected]"
+            }
+          },
+          {
+            "id": "9a66b34352a799b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[SOC251] Quishing Alert Triage"
+            }
+          },
+          {
+            "id": "769615fb32e33f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alerts/Endpoint & Malware/[SOC251] Windows OLE Zero-Click RCE Exploitation Detected].md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[SOC251] Windows OLE Zero-Click RCE Exploitation Detected]"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,15 +209,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "495255a1b0a4ba8a",
+  "active": "769615fb32e33f92",
   "lastOpenFiles": [
-    "Alerts/Web Application Attacks/[SOC239] - [RCE Detected in Splunk Enterprise].md",
-    "Alerts/Web Application Attacks/[SOC235] - [SQL Injection Detected].md",
-    "Alerts/Endpoint & Malware/#[SOC238] - [Suspicious PowerShell Script Executed].md",
     "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
+    "Alerts/Endpoint & Malware/[SOC251] Windows OLE Zero-Click RCE Exploitation Detected].md",
+    "Alerts/Endpoint & Malware/[SOC336] - [Windows OLE Zero-Click RCE Exploitation Detected].md",
+    "Alerts/Endpoint & Malware/# [SOC336] - [Windows OLE Zero-Click RCE Exploitation Detected].md",
+    "Alerts/Web Application Attacks/[SOC235] - [SQL Injection Detected].md",
+    "Alerts/Web Application Attacks/[SOC239] - [RCE Detected in Splunk Enterprise].md",
+    "Alerts/Endpoint & Malware/[SOC238] - [Suspicious PowerShell Script Executed].md",
     "README.md",
-    "Alerts/Web Application Attacks",
     "Alerts/Endpoint & Malware/[SOC176] - [RDP Brute Force Detected].md",
+    "Alerts/Web Application Attacks",
     "Alerts/Phishing/test.md",
     "Alerts/Endpoint/Test.md",
     "Alerts/Endpoint",
