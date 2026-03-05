@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts/[SOC176] - [RDP Brute Force Detected].md",
+                "file": "Alerts/Endpoint & Malware/[SOC176] - [RDP Brute Force Detected].md",
                 "mode": "source",
                 "source": false
               },
@@ -180,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd21f434afe70b8a",
+  "active": "495255a1b0a4ba8a",
   "lastOpenFiles": [
     "Alerts/Web Application Attacks/[SOC239] - [RCE Detected in Splunk Enterprise].md",
     "Alerts/Web Application Attacks/[SOC235] - [SQL Injection Detected].md",
@@ -188,7 +188,7 @@
     "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
     "README.md",
     "Alerts/Web Application Attacks",
-    "Alerts/[SOC176] - [RDP Brute Force Detected].md",
+    "Alerts/Endpoint & Malware/[SOC176] - [RDP Brute Force Detected].md",
     "Alerts/Phishing/test.md",
     "Alerts/Endpoint/Test.md",
     "Alerts/Endpoint",
