@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts/Endpoint & Malware/[SOC251] Windows OLE Zero-Click RCE Exploitation Detected].md",
+                "file": "Alerts/Phishing/SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[SOC251] Windows OLE Zero-Click RCE Exploitation Detected]"
+              "title": "SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing"
             }
           }
         ],
@@ -211,8 +211,11 @@
   },
   "active": "769615fb32e33f92",
   "lastOpenFiles": [
-    "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
+    "Template/[SOCXXX] - [Alert Rule Name].md",
+    "Alerts/Phishing/SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing.md",
+    "Template",
     "Alerts/Endpoint & Malware/[SOC251] Windows OLE Zero-Click RCE Exploitation Detected].md",
+    "Alerts/Phishing/[SOC251] Quishing Alert Triage.md",
     "Alerts/Endpoint & Malware/[SOC336] - [Windows OLE Zero-Click RCE Exploitation Detected].md",
     "Alerts/Endpoint & Malware/# [SOC336] - [Windows OLE Zero-Click RCE Exploitation Detected].md",
     "Alerts/Web Application Attacks/[SOC235] - [SQL Injection Detected].md",
